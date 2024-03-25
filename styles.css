@@ -1,0 +1,53 @@
+.style1
+        a:link {
+      color: #DAF7A6 ;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+        a:visited {
+      color:#DAF7A6;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+.style2
+        a:link {
+      color: violet;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+    a:visited {
+      color: pink;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+.tab {
+  padding-left: 20px;
+}
+
+.header {
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+}
+
+
+
+.nav-area {
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+
+.nav-area li {
+	display: inline-block;
+	padding: 2px 7px;
+}
+
+.wrapper {
+	width: 1170px;
+	margin: auto;
+}
